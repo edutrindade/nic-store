@@ -1,4 +1,4 @@
-import { ProductWithTotalPrice } from "@/app/helpers/product";
+import { ProductWithTotalPrice } from "@/helpers/product";
 import Image from "next/image";
 import { Badge } from "./badge";
 import { ArrowDownIcon } from "lucide-react";
