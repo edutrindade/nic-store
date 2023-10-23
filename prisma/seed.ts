@@ -98,7 +98,7 @@ async function main() {
             data: {
                 name: "Teclados",
                 slug: "keyboards",
-                imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/keyboards.png",
+                imageUrl: "https://fsw-store.s3.sa-east-1.amazonaws.com/01_epomaker-th80.png",
             },
         });
 
